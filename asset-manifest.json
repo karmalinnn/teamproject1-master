@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.407a434f.css",
+    "main.js": "/static/js/main.deda2074.js",
+    "static/media/buy-svgrepo-com.svg": "/static/media/buy-svgrepo-com.2ff56e02471f37026fff736ed5578f96.svg",
+    "index.html": "/index.html",
+    "main.407a434f.css.map": "/static/css/main.407a434f.css.map",
+    "main.deda2074.js.map": "/static/js/main.deda2074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407a434f.css",
+    "static/js/main.deda2074.js"
+  ]
+}
