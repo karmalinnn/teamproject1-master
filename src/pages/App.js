@@ -11,7 +11,7 @@ function App() {
            <Header/>
             <Router>
                <Routes>
-                   <Route path='/' element={<Collection/>}/>
+                   <Route path='/teamproject1-master/' element={<Collection/>}/>
                    <Route path='/cart' element={<Cart/>}/>
                    <Route path='*' element={<NotFound/>}/>
                </Routes>
